@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+    font-family: monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: chocolate;
+}
+
+ol {
+    font-size: small;
+}
+
+.baslik {
+    font-size: 40px;
+}
+
+.urunler {
+    font-size: medium;
+}
